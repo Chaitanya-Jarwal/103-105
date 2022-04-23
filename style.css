@@ -1,0 +1,20 @@
+body{
+    background: linear-gradient(cyan,blue,red);
+    color:yellow;
+}
+.nameofobjects , #result_object_name ,#result_object_accuracy{
+    color: aquamarine;
+    font-size:medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.heading
+{
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 75%;
+}
+#camera,#result{
+    border: 10px groove darkgoldenrod;
+    width: 350px;
+    height: 320px;
+}
